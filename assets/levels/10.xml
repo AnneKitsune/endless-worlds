@@ -1,0 +1,33 @@
+<Level>
+
+ <Properties>
+  <SpawnPointX>0</SpawnPointX>
+  <SpawnPointY>0</SpawnPointY>
+ </Properties>
+ <Blocks>
+  <Block>
+
+   <Type>Portal</Type>
+
+   <Rotation>0.0</Rotation>
+
+   <PositionX>0</PositionX>
+
+   <PositionY>0</PositionY>
+
+   <SizeX>40</SizeX>
+
+   <SizeY>40</SizeY>
+
+  </Block>
+ </Blocks>
+
+ <Items>
+
+ </Items>
+
+ <Mobs>
+
+ </Mobs>
+
+</Level>

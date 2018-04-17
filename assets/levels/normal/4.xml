@@ -1,0 +1,108 @@
+<Level>
+
+ <Properties>
+  <SpawnPointX>0</SpawnPointX>
+  <SpawnPointY>0</SpawnPointY>
+ </Properties>
+ <Blocks>
+  <Block>
+
+   <Type>Portal</Type>
+
+   <Rotation>0.0</Rotation>
+
+   <PositionX>1400</PositionX>
+
+   <PositionY>600</PositionY>
+
+   <SizeX>40</SizeX>
+
+   <SizeY>40</SizeY>
+
+  </Block>
+  <Block>
+
+   <Type>Grass</Type>
+
+   <Rotation>0.0</Rotation>
+
+   <PositionX>0</PositionX>
+
+   <PositionY>200</PositionY>
+
+   <SizeX>100</SizeX>
+
+   <SizeY>20</SizeY>
+
+  </Block>
+  <Block>
+
+   <Type>Grass</Type>
+
+   <Rotation>40.0</Rotation>
+
+   <PositionX>150</PositionX>
+
+   <PositionY>300</PositionY>
+
+   <SizeX>50</SizeX>
+
+   <SizeY>20</SizeY>
+
+  </Block>
+  <Block>
+
+   <Type>Grass</Type>
+
+   <Rotation>0.0</Rotation>
+
+   <PositionX>200</PositionX>
+
+   <PositionY>400</PositionY>
+
+   <SizeX>150</SizeX>
+
+   <SizeY>20</SizeY>
+
+  </Block>
+  <Block>
+
+   <Type>Grass</Type>
+
+   <Rotation>0.0</Rotation>
+
+   <PositionX>450</PositionX>
+
+   <PositionY>400</PositionY>
+
+   <SizeX>150</SizeX>
+
+   <SizeY>20</SizeY>
+
+  </Block>
+  <Block>
+
+   <Type>Grass</Type>
+
+   <Rotation>-60.0</Rotation>
+
+   <PositionX>660</PositionX>
+
+   <PositionY>400</PositionY>
+
+   <SizeX>80</SizeX>
+
+   <SizeY>8</SizeY>
+
+  </Block>
+ </Blocks>
+
+ <Items>
+
+ </Items>
+
+ <Mobs>
+
+ </Mobs>
+
+</Level>

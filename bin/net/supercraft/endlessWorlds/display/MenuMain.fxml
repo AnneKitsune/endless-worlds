@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox alignment="TOP_CENTER" layoutX="350.0" prefHeight="600.0" prefWidth="1150.0" spacing="30.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Button maxHeight="100.0" maxWidth="200.0" minHeight="25.0" minWidth="50.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="200.0" text="Single Player">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </Button>
+            <Button maxHeight="100.0" maxWidth="200.0" minHeight="25.0" minWidth="50.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="200.0" text="Multi Player" />
+            <Button maxHeight="100.0" maxWidth="200.0" minHeight="25.0" minWidth="50.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="200.0" text="Settings" />
+            <Button maxHeight="100.0" maxWidth="200.0" minHeight="25.0" minWidth="50.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="200.0" text="Level Editor" />
+            <Button maxHeight="100.0" maxWidth="200.0" minHeight="25.0" minWidth="50.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="200.0" text="Exit Game" />
+         </children>
+         <padding>
+            <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+         </padding>
+      </VBox>
+   </children>
+</AnchorPane>
